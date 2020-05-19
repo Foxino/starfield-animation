@@ -1,7 +1,6 @@
 # starfield-animation
-HTML5 Canvas animation
 
-I like space.. Inspired by the windows screensaver. Adjustable variables can be found in the upper section of `starfield.js`. Feel free to improve upon and use as you feel free. :) 
+An HTML5 Canvas animation inspired by the starfield screensaver by windows. Fully customisable variables found within `starfield.js`. Feel free to modify or use as you wish.
 
-Demo it here:
+# Demo it here:
 http://vulpes.xyz/projects/starfield/
